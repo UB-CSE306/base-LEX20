@@ -16,7 +16,3 @@ All the tests should pass.  They do not.  There is a segmentation fault when you
 Before doing this you must edit the makefile so that the gprof invocation is complete.  Find the "fix" line in the makefile, and consult either the manual page for gprof on cerf or the [on-line gprof version 2.34 documentation](https://sourceware.org/binutils/docs-2.34/gprof/index.html) to help.  If you run into problems post a question in Piazza.
 
 Once you have the code running correctly look at the gcov and gprof data.  Write below what they show about any performance bottleneck, and suggest ways in which the performance of the code could be improved.  YOU ARE NOT EXPECTED TO IMPLEMENT THESE IMPROVEMENTS - JUST DESCRIBE THEM in the same Google form referenced above.
-
-## Finishing up
-
-Open [the LEX 20 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc2zUKT863BQd2_szdZwfP5IPDqjPuA1I38vgwgEgcP5I9PDw/viewform?usp=sf_link) and give your thoughts on this lab exercise.
